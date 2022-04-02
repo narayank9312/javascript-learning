@@ -1,0 +1,22 @@
+// 1
+// getName()
+// console.log(x);
+
+// var x= 7;
+
+// function getName(){
+//     console.log("Namastey Javascript");
+// }
+
+// 2nd 
+// getName()
+// console.log(x);
+
+
+// function getName(){
+//     console.log("Namastey Javascript");
+// }
+
+//3
+// getName()
+// console.log(x);
