@@ -1,0 +1,12 @@
+function counter() {
+    var count = 0;
+    return function incre() {
+       count++;
+        console.log(count)
+    } 
+}
+
+let x = counter()
+x()
+x()
+

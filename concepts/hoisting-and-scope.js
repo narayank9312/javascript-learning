@@ -33,6 +33,5 @@ function RideCar() {
 
 RideCar();
 
-var color = "red";
-
+var color = "red"=09876
 console.log(rider); // Reference error rider is not defined
