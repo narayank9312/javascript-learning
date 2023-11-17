@@ -1,15 +1,17 @@
-let obj1 = {
-  name: "Manoj",
-};
+// let obj1 = {
+//   name: "Manoj",
+// };
 
-let obj2 = {
-  name: "Satish",
-};
+// let obj2 = {
+//   name: "Satish",
+// };
 
-function printName(college, place) {
-  console.log(this.name + " from " + college + "," + place);
-}
+// function printName(college, place) {
+//   console.log(this.name + " from " + college + "," + place);
+// }
 
-const printNameFn = printName.bind(obj1, "BITM", "Bellary");
+// const printNameFn = printName.bind(obj1, "BITM", "Bellary");
 
-printNameFn();
+// printNameFn();
+
+// IIFE Pattern
